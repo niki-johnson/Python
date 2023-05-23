@@ -1,5 +1,5 @@
 # Estudos sobre Python
-Repositório com exercícios em python. Desejo mostrar minha evolução nessa linguagem.
+Repositório com exercícios em python. Desejo mostrar minha evolução nessa linguagem. Abaixo um breve descritivo do que pode ser encontrado em cada pasta:
 
 - Estudos:
   - Estrutura de controle: Laços de repetição, If's e Else's, Recursão
@@ -23,3 +23,5 @@ Repositório com exercícios em python. Desejo mostrar minha evolução nessa li
       - ToDoList
       
 - ProjetoWac: Automatização de Tarefas do Estágio - Leitura de dados contidos em relatórios e inclusão no banco de dados
+
+- Codewars: Série de exercícios do site codewars
