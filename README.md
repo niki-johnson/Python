@@ -21,4 +21,5 @@ Repositório com exercícios em python. Desejo mostrar minha evolução nessa li
       - ToDoList
       - Weather app: informa condição climática do local informado
       - ToDoList
-      - ProjetoWac: Automatização de Tarefas do Estágio
+      
+- ProjetoWac: Automatização de Tarefas do Estágio - Leitura de dados contidos em relatórios e inclusão no banco de dados
