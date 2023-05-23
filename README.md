@@ -13,12 +13,12 @@ Repositório com exercícios em python. Desejo mostrar minha evolução nessa li
 
 - Projetos: Projetos pessoais para aplicar os estudos
   - Iniciante:
-      -Campo minado
-      -Jogo da forca
-      -Jogo da velha (+ maquina impossível de ser vencida)
-      -Guess_number: adivinhar número
-      -Sudoku
-      -ToDoList
-      -Weather app: informa condição climática do local informado
-      -ToDoList
-      -ProjetoWac: Automatização de Tarefas do Estágio
+      - Campo minado
+      - Jogo da forca
+      - Jogo da velha (+ maquina impossível de ser vencida)
+      - Guess_number: adivinhar número
+      - Sudoku
+      - ToDoList
+      - Weather app: informa condição climática do local informado
+      - ToDoList
+      - ProjetoWac: Automatização de Tarefas do Estágio
